@@ -2,20 +2,23 @@ body.style{
 	background-color: #FAE629;
 }
 section.pageTitle{
+	margin-top: -30px;
+	box-shadow: 5px 5px 5px black;
 	text-align: center;
 	background-color: white;
 	border-radius: 30px;
 }
-section.pageTitle img{
-     width: 75px;
-     height: 75px;
-}
 section.pageText{
+	margin-top: -20px;
 	padding-right: 5%;
 	float: right;
 	text-align: center;
 	font-size: 20px;
     font-family: "Comic Sans MS", cursive, sans-serif;
+}
+section.pageImg{
+	margin-top: -20px;
+	float: left;
 }
 .pageText img{
      width: 50px;
@@ -24,16 +27,13 @@ section.pageText{
 .pageText img:hover{
      opacity: 0.3;
 }
-section.pageImg{
-	float: left;
-}
 h1{
     font-size: 50px;
     font-family: "Comic Sans MS", cursive, sans-serif;
 }
 .pageImg img{
-	 width: 300px;
-     height: 400px;
+	 width: 350px;
+     height: 450px;
 }
 section.donut{
 	padding-top: 20px;
