@@ -1,0 +1,59 @@
+body.style{
+	background-color: #FAE629;
+}
+section.pageTitle{
+	text-align: center;
+	background-color: white;
+	border-radius: 30px;
+}
+section.pageTitle img{
+     width: 75px;
+     height: 75px;
+}
+section.pageText{
+	padding-right: 5%;
+	float: right;
+	text-align: center;
+	font-size: 20px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.pageText img{
+     width: 50px;
+     height: 50px;
+}
+.pageText img:hover{
+     opacity: 0.3;
+}
+section.pageImg{
+	float: left;
+}
+h1{
+    font-size: 50px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.pageImg img{
+	 width: 300px;
+     height: 400px;
+}
+section.donut{
+	padding-top: 20px;
+}
+.donut img{
+     width: 200px;
+     height: 200px;
+}
+ul li{ 
+	padding : 5px;
+	display:inline;
+}
+a:link{
+    text-decoration: none;
+	color: black;
+}
+a:visited{
+	color: black;
+}
+a:hover {
+  color: white;
+}
+
