@@ -56,4 +56,12 @@ a:visited{
 a:hover {
   color: white;
 }
-
+menu.Langues{
+   
+}
+menu.Langues img{
+	float: left;
+	padding: 5px;
+    height: 20px;
+    width: 30px;
+}
