@@ -17,8 +17,14 @@ section.pageText{
     font-family: "Comic Sans MS", cursive, sans-serif;
 }
 section.pageImg{
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
 	margin-top: -20px;
 	float: left;
+}
+section.pageImg:hover img{
+    -webkit-transform: rotate(-15deg);
+  transform: rotate(-15deg);
 }
 .pageText img{
      width: 50px;
