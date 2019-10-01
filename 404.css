@@ -60,6 +60,7 @@ menu.Langues{
    
 }
 menu.Langues img{
+	margin-top: 21px;
 	float: left;
 	padding: 5px;
     height: 20px;
